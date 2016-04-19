@@ -1,0 +1,225 @@
+header{
+     padding: 15px 0;
+     margin: 0;
+     color: #fff;
+     border-bottom: solid 1px #333;
+     background:#333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li: hover a{
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color:#eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a hover {
+	color:#fff;
+}
+
+
+
+section{
+	background-color: #cad0cb;
+	border: 1px solid #cad0cb;
+}
+h1{
+	font-size: 26px;
+	padding:15px 15px 0 15px;
+}
+.episodio{
+	font-size: 14px;
+	text-decoration: none;
+}
+.nav-section a{
+	text-decoration: none;
+	margin:0;
+	text-shadow: none;
+	font-size: 20px;
+	color:blue;
+}
+img{
+	width: 100%;
+	margin-left: 0;
+	margin-bottom: 50px;
+	position: relative;
+	border: 2px solid white;
+}
+.nav-section li{
+	list-style: none;
+}
+.uno{
+    position: relative;
+    left: 80px;
+    top: 240px;
+}
+.dos{
+	position: relative;
+	left: 15px;
+	top: 240px;
+}
+.tres{
+	position: relative;
+	left: 40px;
+	top: 240px;
+}
+.cuatro{
+	position: relative;
+	left: 40px;
+	top: 240px;
+}
+
+
+
+
+.fila1 img{
+	width: 18%;
+	position: relative;
+	margin:0;
+	padding: 15px 10px 0px 0px;
+}
+.fila1{
+	display: inline-block;
+	padding: 10px 0 5px 0;	
+}
+h2{
+	padding: 50px 0 0 0;
+	border-bottom: 2px solid gray;
+}
+.iconos{
+	width: 10%;
+}
+.columna li{
+	list-style: none;
+}
+.columna a{
+	text-decoration: none;
+	font-size: 19px;
+	position: absolute;
+	margin-left: 15px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	color:#0080FF;
+}
+.columna img{
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+hr{
+	border: 1px solid gray;
+	margin-top:50px;
+	
+}
+.parrafo{
+	font-size: 19px;
+	padding: 10px 0;
+}
+.parrafo a{
+	text-decoration: none;
+	font-size: 19px;
+	color:#0080FF;
+}
+
+
+
+.lista li{
+	list-style: none;
+	display: inline-block;
+	padding-top: 0;
+}
+.lista a{
+	text-decoration: none;
+	font-size: 16px;
+}
+.la{margin-left: 20px;}
+.le{margin-left: 50px;}
+.lis{margin-left: 40px;}
+.lo{margin-left: 40px;}
+.lu{margin-left: 50px;}
+.ma{margin-left: 20px;}
+.me{margin-left: 50px;}
+.mi{margin-left: 25px;}
+.mo{margin-left: 40px;}
+.mu{margin-left: 70px;}
+.pa{margin-left: 20px;}
+.pe{margin-left: 30px;}
+.pi{margin-left: 40px;}
+.po{margin-left: 60px;}
+.pu{margin-left: 20px;}
+.sa{margin-left: 0px;}
+.se{margin-left: 25px;}
+.si{margin-left: 35px;}
+.so{margin-left: 20px;}
+.su{margin-left: 40px;}
+.ba{margin-left: 3px;}
+.be{margin-left: 22px;}
+.bi{margin-left: 60px;}
+.bo{margin-left: 65px;}
+.bu{margin-left: 35px;}
+.fa{margin-left: 30px;}
+.fe{margin-left: 60px;}
+.fi{margin-left: 45px;}
+.fo{margin-left: 40px;}
+.fu{margin-left: 40px;}
+.ña{margin-left: 25px;}
+.ñe{margin-left: 45px;}
+.ñi{margin-left: 35px;}
+.ño{margin-left: 60px;}
+.ñu{margin-left: 45px;}
+
+
+
+
+
+
+
+.cuadro{
+	background-color:gray;
+	border: 1px solid gray;
+	padding: 20px;
+	margin-top: 20px;
+
+}
+.resumen{
+	font-size: 20px;
+	color: white;
+	padding: 10px;
+}
+.more{
+    list-style: none;
+    text-decoration: none;
+    
+}
+p .final{
+	margin-left: 170px;
+	text-decoration:none;
+	font-size: 18px;
+	color: white;
+}
+.copyright{
+    margin:30px 0 30px 0; 
+    color: #cad0cb;
+    margin-left: 180px;
+}
